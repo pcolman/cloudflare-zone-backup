@@ -1,0 +1,22 @@
+#ignore ALL files with these extensions
+*.log
+*.json
+*.data
+*.code-workspace
+*.prettierrc
+.DS_Store
+*.edu
+*.com
+*.org
+*.net
+*.ca
+*.io
+*.zip
+*.testing
+
+#ignore ALL files in these directories
+tmp/
+logs/
+backup/
+backups/
+backupTemp/
